@@ -6,4 +6,4 @@
 
 [Website](https://purriin.web.app/) | [Linkedin](linkedin.com/in/purriin) | [Instagram](https://www.instagram.com/purriin/) | [Email](mailto:v.joness1211@gmail.com)
 
-$${\color{#819132}\text{hi}}$$
+[$${\color{#819132}\text{Website}}$$](https://purriin.web.app/)
