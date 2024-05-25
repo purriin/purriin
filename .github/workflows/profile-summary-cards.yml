@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   create:
-  schedule:
+  schedule: # 24 hrs
     - cron: "* */24 * * *"
   workflow_dispatch:
 
